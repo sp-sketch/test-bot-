@@ -1,0 +1,46 @@
+{
+    "question" : [
+        {
+            "title": "Would you rather kill your friend or your brother?",
+            "options": ["brother", "friend"],
+            "correct": 1,
+            "brother": "Seem's like you care about your brother more than that friend of yours. Good Brother!",
+            "friend": "Huh are you insane. Why do you hate your brother who doesn't leave you at all times while your friend just comes and go. Remember family stays forever!"
+        },
+        {
+            "title": "Would you rather save a cat or save a dog",
+            "options": ["cat","dog"],
+            "correct": 1,
+            "brother": "A cat seems decent since it is cute!",
+            "friend": "SEems like dogs mighht even bite you!"
+        },
+        {
+            "title": "Would you rather die for your friend or your teacher",
+            "options": ["teacher", "friend"],
+            "correct": 1,
+            "brother": "A teacher seems to be nice but sometimes give's too much homework that you just hate the teacher!",
+            "friend": "Friends help you a lot with homework and more so why not a friend :D !"
+        },
+        {
+            "title": "",
+            "options": [],
+            "correct": 1,
+            "brother": "",
+            "friend": ""
+        },
+        {
+            "title": "",
+            "options": [],
+            "correct": 1,
+            "brother": "",
+            "friend": ""
+        },
+        {
+            "title": "",
+            "options": [],
+            "correct": 1,
+            "brother": "",
+            "friend": ""
+        }
+    ]
+}
